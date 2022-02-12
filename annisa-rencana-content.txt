@@ -3,7 +3,9 @@ RENCANA KONTEN
 -Javascript
 *ES6
 *Framework Javascript
--Struktur data  dasar
+^angular
+^reach
 -PHP Fremeworks
+^laravel
 -Interview
 -Vlogs
