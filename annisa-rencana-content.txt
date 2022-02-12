@@ -5,6 +5,7 @@ RENCANA KONTEN
 *Framework Javascript
 ^angular
 ^reach
+^vue
 -PHP Fremeworks
 ^laravel
 -Interview
